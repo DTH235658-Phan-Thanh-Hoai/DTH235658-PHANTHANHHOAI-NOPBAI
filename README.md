@@ -22,9 +22,17 @@ I am a junior Information Technology student at An Giang University. I am passio
 🗄️ **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-<img src="https://skillicons.dev/icons?i=mysql,azure&perline=5" />
----
 
+---
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false)  
+
+---
 ## 📫 Contact
 📧 Email: **thanhhoai08.work@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
