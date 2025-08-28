@@ -19,7 +19,6 @@ I am passionate about software development, problem-solving, and exploring new t
 ## 🛠️ Kỹ năng & Công nghệ  
 
 💡 **Ngôn ngữ lập trình:**  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=500&lines=Python;Java;C%23;C;C%2B%2B)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
