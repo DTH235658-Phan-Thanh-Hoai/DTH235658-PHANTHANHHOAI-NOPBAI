@@ -20,11 +20,6 @@ I am passionate about software development, problem-solving, and exploring new t
 
 💡 **Ngôn ngữ lập trình:**  
 <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> 
-<img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"/>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ⚡ **Frameworks & Tools:**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
