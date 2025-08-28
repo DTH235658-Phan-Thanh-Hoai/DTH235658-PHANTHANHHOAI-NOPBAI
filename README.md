@@ -53,7 +53,7 @@ I am passionate about software development, problem-solving, and exploring new t
 ---
 
 ## 📫 Liên hệ  
-📧 Email: **youremail@gmail.com**  
+📧 Email: **thanhhoai08.work@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
 
