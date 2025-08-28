@@ -19,11 +19,14 @@ Currently, I am focusing on improving my skills in **Python, .NET, and Web Devel
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django&perline=5" />
 
 **DATABASES**  
-<img src="https://skillicons.dev/icons?i=mysql&perline=5" />  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48"/>
+</p>
+
 
 **OTHER TOOLS**  
-<img src="https://skillicons.dev/icons?i=git,docker,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,vscode&perline=5" />
 
 ---
 
