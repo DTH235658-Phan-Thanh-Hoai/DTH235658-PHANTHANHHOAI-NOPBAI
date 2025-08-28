@@ -36,7 +36,7 @@ I am a junior Information Technology student at An Giang University. I am passio
 ## 📫 Liên hệ  
 📧 Email: **thanhhoai08.work@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-🐙 GitHub: [github.com/DTH235658-Phan-Thanh-Hoai](https://github.com/yourusername)  
+🐙 GitHub: [DTH235658-Phan-Thanh-Hoai](https://github.com/yourusername)  
 
 ---
 
