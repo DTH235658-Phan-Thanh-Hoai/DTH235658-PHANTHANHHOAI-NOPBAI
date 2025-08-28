@@ -8,36 +8,28 @@ I am a junior Information Technology student at An Giang University. I am passio
 
 ---
 
-## 🚀 Về tôi  
-- 🎓 Sinh viên / Nhà phát triển phần mềm  
-- 💻 Quan tâm: **Python, .NET, AI, Data Science**  
-- 🌱 Đang học: **Thuật toán, Machine Learning, Web Development**  
-- 🎯 Mục tiêu: Trở thành một **Software Engineer** chuyên nghiệp  
+## 🛠️  Skills & Tools 
 
----
-
-## 🛠️ Kỹ năng & Công nghệ  
-
-💡 **Ngôn ngữ lập trình:**  
+💡 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
 
 ⚡ **Frameworks & Tools:**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 
-🗄️ **Cơ sở dữ liệu:**  
+
+🗄️ **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,azure&perline=5" />
 ---
 
-## 📫 Liên hệ  
+## 📫 Contact
 📧 Email: **thanhhoai08.work@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 🐙 GitHub: [DTH235658-Phan-Thanh-Hoai](https://github.com/yourusername)  
 
 ---
 
-⭐ Nếu thấy hữu ích, đừng quên **follow** và **star** repo của tôi nhé!
+ *"Strive not to be a success, but rather to be of value." – Albert Einstein*
