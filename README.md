@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Thanh Hoài, a third-year Information Technology student at An Giang University.
-I am passionate about software development, problem-solving, and exploring new technologies. Currently, I am focusing on improving my skills in Python, .NET, and web development, with the goal of becoming a professional Software Engineer in the near future.
+# 👋 Hi, I'm Thanh Hoai,
+I am a junior Information Technology student at An Giang University. I am passionate about software development, problem-solving, and exploring new technologies. Currently, I am focusing on improving my skills in Python, .NET, and web development, with the goal of becoming a professional Software Engineer in the near future.
 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
