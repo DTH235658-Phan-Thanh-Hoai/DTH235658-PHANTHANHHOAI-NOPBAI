@@ -12,24 +12,24 @@ Currently, I am focusing on improving my skills in **Python, .NET, and Web Devel
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ SKILLS AND TOOLS
 
-💡 **Languages**  
+💡 **LANGUAGES**  
 <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
 
-⚡ **Frameworks & Tools**  
+⚡ **FRAMEWORKS AND TOOL**  
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django&perline=5" />
 
 🗄️ **Databases**  
 <img src="https://skillicons.dev/icons?i=mysql&perline=5" />  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-🔧 **Other Tools**  
+🔧 **OTHER TOOLS**  
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux&perline=5" />
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GITHUB STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DTH235658-Phan-Thanh-Hoai&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTH235658-Phan-Thanh-Hoai&layout=compact&theme=radical)  
@@ -37,7 +37,7 @@ Currently, I am focusing on improving my skills in **Python, .NET, and Web Devel
 
 ---
 
-## 📫 Contact
+## 📫 CONTACT
 <a href="mailto:thanhhoai08.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/DTH235658-Phan-Thanh-Hoai"><img src="https://skillicons.dev/icons?i=github" /></a>
