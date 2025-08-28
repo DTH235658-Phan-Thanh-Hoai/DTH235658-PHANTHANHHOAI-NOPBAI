@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Thanh%20Hoai!&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20in%20the%20making&descAlignY=55)
-
-# 👋 Hi, I'm Thanh Hoai
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Thanh%20Hoai!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20the%20making&descAlignY=55)
 
 I am a junior Information Technology student at **An Giang University**.  
 I am passionate about **software development**, **problem-solving**, and **exploring new technologies**.  
@@ -14,18 +12,18 @@ Currently, I am focusing on improving my skills in **Python, .NET, and Web Devel
 
 ## 🛠️ SKILLS AND TOOLS
 
-💡 **LANGUAGES**  
+**LANGUAGES**  
 <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
 
-⚡ **FRAMEWORKS AND TOOL**  
+**FRAMEWORKS AND TOOL**  
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,django&perline=5" />
 
-🗄️ **Databases**  
+**DATABASES**  
 <img src="https://skillicons.dev/icons?i=mysql&perline=5" />  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-🔧 **OTHER TOOLS**  
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux&perline=5" />
+**OTHER TOOLS**  
+<img src="https://skillicons.dev/icons?i=git,docker,vscode&perline=5" />
 
 ---
 
