@@ -19,6 +19,7 @@ I am passionate about software development, problem-solving, and exploring new t
 ## 🛠️ Kỹ năng & Công nghệ  
 
 💡 **Ngôn ngữ lập trình:**  
+<img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
