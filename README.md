@@ -33,7 +33,7 @@ Currently, I am focusing on improving my skills in **Python, .NET, and Web Devel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DTH235658-Phan-Thanh-Hoai&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTH235658-Phan-Thanh-Hoai&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DTH235658-Phan-Thanh-Hoai&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DTH235658-Phan-Thanh-Hoai&theme=radical&hide_border=false)
 
 ---
 
