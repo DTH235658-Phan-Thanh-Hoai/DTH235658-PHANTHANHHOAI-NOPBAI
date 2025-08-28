@@ -30,7 +30,6 @@ I am a junior Information Technology student at An Giang University. I am passio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false)  
 
 ---
 ## 📫 Contact
