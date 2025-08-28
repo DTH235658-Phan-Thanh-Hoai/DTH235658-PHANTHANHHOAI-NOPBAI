@@ -33,13 +33,6 @@ I am passionate about software development, problem-solving, and exploring new t
 
 ---
 
-## 📌 Dự án nổi bật  
-- 🌲 **[Cây thông Python](https://github.com/yourusername/repo)** – Vẽ cây thông bằng Python với if/else & for  
-- 📊 **[Phân tích dữ liệu](https://github.com/yourusername/repo)** – Làm việc với Pandas, Matplotlib  
-- 🌐 **[Website cá nhân](https://github.com/yourusername/repo)** – Portfolio giới thiệu bản thân  
-
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
