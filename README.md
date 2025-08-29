@@ -1,48 +1,18 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Thanh%20Hoai!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20the%20making&descAlignY=55)
-
-I am a junior Information Technology student at **An Giang University**.  
-I am passionate about **software development**, **problem-solving**, and **exploring new technologies**.  
-Currently, I am focusing on improving my skills in **Python, .NET, and Web Development**, with the goal of becoming a **professional Software Engineer** in the near future.
-
-[![GitHub followers](https://img.shields.io/github/followers/DTH235658-Phan-Thanh-Hoai?style=social)](https://github.com/DTH235658-Phan-Thanh-Hoai)
-[![GitHub stars](https://img.shields.io/github/stars/DTH235658-Phan-Thanh-Hoai?style=social)](https://github.com/DTH235658-Phan-Thanh-Hoai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381)
-
----
-
-## 🛠️ SKILLS AND TOOLS
-
-**LANGUAGES**  
-<img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
-
-**FRAMEWORKS AND TOOL**  
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,django&perline=5" />
-
-**DATABASES**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:00CFFF&height=100&section=header&text=HỆ%20THỐNG%20BÀI%20TẬP%20PYTHON&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 
+**Môn học:** Chuyên đề Python  
+**Họ và tên:** Phan Thanh Hoài  
+**MSSV:** DTH235658  
 
-**OTHER TOOLS**  
-<img src="https://skillicons.dev/icons?i=git,vscode&perline=5" />
-
----
-
-## 📊 GITHUB STATS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DTH235658-Phan-Thanh-Hoai&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTH235658-Phan-Thanh-Hoai&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DTH235658-Phan-Thanh-Hoai&theme=radical&hide_border=false)
+Kho lưu trữ này được xây dựng nhằm tổng hợp và hệ thống lại **các bài tập Python** theo chương trình học.  
+Mục tiêu giúp người học rèn luyện kỹ năng lập trình, tư duy thuật toán và ứng dụng Python trong thực tế.  
 
 ---
 
-## 📫 CONTACT
-<a href="mailto:thanhhoai08.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/DTH235658-Phan-Thanh-Hoai"><img src="https://skillicons.dev/icons?i=github" /></a>
-
----
-
-*"Strive not to be a success, but rather to be of value." – Albert Einstein*
+## 🎯 Mục tiêu
+- Nắm vững cú pháp và các cấu trúc cơ bản trong Python  
+- Rèn luyện tư duy giải quyết vấn đề qua bài tập  
+- Hệ thống hóa kiến thức theo từng chương  
+- Chuẩn bị cho các bài kiểm tra, đồ án và ứng dụng thực tế  
