@@ -1,8 +1,9 @@
-def ChuoiToiUu(s):
-    s2 = s
+def XuLyChuoi(s):
+    s1 = s.title()
+    s2 = s1
     s2 = s2.strip()
-    arr=s2.split(' ')
-    s2=""
+    arr = s2.split()
+    s2 = ""
     for x in arr:
         word = x
         if len(word.strip()) != 0:
@@ -10,6 +11,4 @@ def ChuoiToiUu(s):
     return s2.strip()
 
 s = input("Nhập vào một chuỗi: ")
-print(s,"=>",len(s))
-s = ChuoiToiUu(s)
-print(s,"=>",len(s))
+print("Chuỗi sau khi xử lý:", XuLyChuoi(s))
